@@ -9,17 +9,6 @@
 - 🧠 Passionate about building projects that solve **real-life problems**.
 - ⚡ I'm currently the **Sports Head** of my college,gaining experience out of the academic area too,in order to develop good management skills!
 
-  ### 🌐 Connect with me:
- 💁‍♀️ Hi, I'm Garima Bharti!
-
-**Curious Engineer | Tech Explorer | Focused on Impactful Learning**
-
-- 🎓 I'm pursuing **B.Tech in Computer Science** at Jaypee Institute Of Information Technology,Noida.
-- 💻 I'm currently learning **Full Stack Development**.
-- 🚀 Exploring **ML, Web Dev, and Real-world Projects**.
-- 📊 Regularly solve problems on **LeetCode(100+ problems solved)**, and building my GitHub!
-- 🧠 Passionate about building projects that solve **real-life problems**.
-- ⚡ I'm currently the **Sports Head** of my college,gaining experience out of the academic area too,in order to develop good management skills!
 
 ### 🌐 Connect with me:
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/gB_0109)
