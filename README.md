@@ -10,6 +10,7 @@
 - ⚡ I'm currently the **Sports Head** of my college,gaining experience out of the academic area too,in order to develop good management skills!
 
 
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://leetcode.com/gB_0109" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
