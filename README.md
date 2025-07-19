@@ -29,15 +29,37 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-  <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/30/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/30/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/30/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/30/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/30/000000/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/ios-filled/30/4A90E2/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/null/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="SQL"/>
-  <img src="https://img.icons8.com/fluency/30/null/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/30/000000/react-native.png" alt="React"/>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png" alt="C++"/>
+  </a>
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/python.png" alt="Python"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/html-5.png" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/css3.png" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/javascript--v1.png" alt="JavaScript"/>
+  </a>
+  <a href="https://getbootstrap.com/docs/" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/bootstrap.png" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/4A90E2/mysql-logo.png" alt="MySQL"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/null/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="SQL"/>
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/null/node-js.png" alt="Node.js"/>
+  </a>
+  <a href="https://react.dev/learn" target="_blank">
+    <img src="https://img.icons8.com/color/30/000000/react-native.png" alt="React"/>
+  </a>
 </p>
