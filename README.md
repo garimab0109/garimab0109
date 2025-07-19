@@ -10,11 +10,21 @@
 - ⚡ I'm currently the **Sports Head** of my college,gaining experience out of the academic area too,in order to develop good management skills!
 
 
-### 🌐 Connect with me:
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/gB_0109)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/garima-bharti-110229280)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/garimabhartii)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/garimab0109)
+<p align="left">
+  <a href="https://leetcode.com/gB_0109" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/garima-bharti-110229280" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/garimabhartii" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/garimab0109" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub"/>
+  </a>
+</p>
+
 
 ### 🛠️ Languages and Tools:
 <p>
