@@ -1,4 +1,4 @@
-  Hi, I'm Garima Bharti
+ 💁‍♀️ Hi, I'm Garima Bharti!
 
 **Curious Engineer | Tech Explorer | Focused on Impactful Learning**
 
